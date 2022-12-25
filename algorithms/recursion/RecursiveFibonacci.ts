@@ -10,3 +10,16 @@ function recursiveFibo(n: number): number {
 
 console.log(recursiveFibo(2));
 console.log(recursiveFibo(7));
+
+/**
+ *
+ * Calculate for 7
+ *               7         -> 2^0
+ *           6      5      -> 2^1
+ *        5   4   4   3
+ *       4 3 3 2 3 2 2 1
+ *
+ *
+ *
+ * so the complexity is 2^n
+ */
