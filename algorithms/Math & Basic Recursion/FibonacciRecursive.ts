@@ -1,6 +1,6 @@
 /**
  *
- * Given a integer n find "n"th fibonacci number
+ * Given a integer n find "n"th fibonacci number recursively
  */
 
 function recursiveFibo(n: number): number {

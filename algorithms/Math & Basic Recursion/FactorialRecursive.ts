@@ -1,5 +1,5 @@
 /**
- * Given a integer n find the factorial of that number
+ * Given a integer n find the factorial of that number recursively
  */
 
 function recursiveFactorial(n: number): number {
