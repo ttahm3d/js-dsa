@@ -14,6 +14,10 @@
  *
  * To merge, we need to combine two halves.
  *
+ * Compexity
+ * O(n logn) - time
+ * n - auxilary space
+ *
  * @param nums Array of numbers
  * @returns Sorted array of numbers
  */
