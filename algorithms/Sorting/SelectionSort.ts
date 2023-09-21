@@ -5,7 +5,7 @@
  *
  * Complexity
  *
- * For all cases - O(n2)
+ * For all cases - O(n ** 2)
  *
  * @param nums array of numbers
  * @returns Sorted array of numbers
